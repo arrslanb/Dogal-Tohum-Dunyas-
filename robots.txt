@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /cart.php
+Disallow: /checkout.php
+
+Sitemap: https://www.dogaltohumdunyasi.com/sitemap.php
